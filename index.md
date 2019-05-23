@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Miguel Ruiz'
+description: 'Skateboard Lessons by Miguel Ruiz'
 image: null
 author: null
 show_tile: false
