@@ -1,17 +1,21 @@
 # site settings
 title: Miguel Ruiz
-subtitle: Skateboard Lessons
+subtitle: Skateboard Instructor
 email: miguelruizskates@gmail.com
 description: Get skateboard lessons from a pro
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://miguelskates.com # the base hostname & protocol for your site
 author:
-street_address:
-city:
-state:
-zip_code:
-country: United States of America
+address_name: Cerritos Skate Park
+street_address: 19900 Bloomfield Avenue
+city: Cerritos
+state: CA
+zip_code: 90703
+country:
+address_link: https://goo.gl/maps/M1bYj5Gkbt6M6vMCA
 phone:
+hours: "Mon – Fri: 6pm-7pm"
+hours2: "Sat & Sun: Open"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -23,7 +27,8 @@ facebook_url:
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://www.instagram.com/michaelangelo_ruiz
+instagram_url: https://www.instagram.com/miguelruizskates/
+venmo: Miguel-Ruiz-129
 linkedin_url:
 pinterest_url:
 slack_url:

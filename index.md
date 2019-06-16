@@ -8,4 +8,8 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Skateboard lessons and coach for skateboard competitions. If you're just starting out, want to get better at skating, or need help training for a competition, we will help you achieve whatever your goals are.
+
+Age group: young youth to teens.
+
+Sign up and join our group skate class from Monday – Friday, 6pm – 7pm or book a 1 on 1 lesson Saturday – Sunday! (Safety gear equipment is mandatory!) Providing your own gear is recommended for your child’s comfort and safety. Have no gear? No fear! We have loaners on hand!
