@@ -13,7 +13,8 @@ state: CA
 zip_code: 90703
 country:
 address_link: https://goo.gl/maps/M1bYj5Gkbt6M6vMCA
-phone:
+phone: "(562) 746-2541"
+phonehrs: "8am–6pm"
 hours: "Mon – Fri: 6pm-7pm"
 hours2: "Sat & Sun: Open"
 
