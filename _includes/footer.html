@@ -72,6 +72,19 @@
 					</span>
 				</div>
 			</section>
+			{% if site.phone %}
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>
+					{% if site.phone %}
+					    {{ site.phone }}
+					{% endif %}
+					</span>
+				</div>
+			</section>
+			{% endif %}
       <section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -84,6 +97,13 @@
 					    {{ site.hours2 }}
 					{% endif %}
 					</span>
+					{% if site.phonehrs %}
+					<br><br>
+					<h3>Normal Phone Business Hours</h3>
+					<span>
+					    {{ site.phonehrs }}
+					</span>
+					{% endif %}
 				</div>
 			</section>
 		</section>
