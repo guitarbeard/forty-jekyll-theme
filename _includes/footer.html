@@ -40,14 +40,13 @@
 					<a href="{{ site.instagram_url }}" target="_blank">@miguelruizskates</a>
 				</div>
 			</section>
+			{% if site.street_address %}
       <section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
 					<h3>Location</h3>
 					<span>
-          {% if site.address_link %}
 					   <a href="{{ site.street_address }}" target="_blank">
-					{% endif %}
           {% if site.address_name %}
 					    {{ site.address_name }}<br />
 					{% endif %}
@@ -72,6 +71,7 @@
 					</span>
 				</div>
 			</section>
+			{% endif %}
 			{% if site.phone %}
 			<section>
 				<div class="contact-method">
